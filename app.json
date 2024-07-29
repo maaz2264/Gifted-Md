@@ -11,12 +11,12 @@
     "MODE": {
       "description": "Put Mode either public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
      "OWNER_NAME": {
-      "description": "Put the name of Bot Owner",
+      "description": "GIFT MD",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "MAAZ"
     },
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
